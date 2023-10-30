@@ -1,0 +1,5 @@
+﻿{
+  Type: Func<IDocument>,
+  Target: PdfGenerator,
+  Method: QuestPDF.Infrastructure.IDocument GenerateDocument()
+}
